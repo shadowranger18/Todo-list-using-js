@@ -1,0 +1,32 @@
+p{
+   
+    color:white;
+    width:500px
+    align-items: center;
+}
+input{
+    align-items: center;
+    border-radius:10px;
+    padding-bottom:2px;
+    outline: none;
+    
+}
+button{
+    font-style:bold;
+    color:#fff;
+    background-color:orangered;
+    border:0;
+    box-shadow:2px 2px gray ;
+    border-radius: 4px;
+    padding-top:2px; 
+}
+form{
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-image: linear-gradient(120deg,#e2c35d,#d88771);    
+}
